@@ -1,4 +1,4 @@
-# Transformada_Fourier_Allison
+# Transformada_Fourier
 
 Simulación y análisis de señales básicas y verificación de propiedades de la Transformada de Fourier en MATLAB.
 
