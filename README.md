@@ -19,8 +19,6 @@ Este trabajo refuerza la comprensión de conceptos clave del curso de Señales y
 - `Codigo/`: Scripts de señales básicas
 - `Propiedades_Fourier/`: Verificación de propiedades
 - `Graficos/`: Imágenes generadas en MATLAB
-- `Informe/`: Documento Word con análisis completo
-- `Presentacion/`: Diapositivas del proyecto
 
 ## Autor
 
